@@ -1,0 +1,38 @@
+.topdiv {
+  display: flex;
+  /* flex-wrap: wrap; */
+  flex-direction: row;
+  margin: 20px;
+}
+
+.checkboxdiv {
+  flex: 20%;
+  background-color: #cf8d8d;
+  padding: 20px;
+}
+
+.grapdiv {
+  flex: 80%;
+  background-color: #be8feb;
+  padding: 20px;
+}
+
+.mainlabel {
+  font-size: 20px;
+}
+
+.mainlabel input {
+  transform: scale(2);
+  margin: 10px;
+}
+
+.smalllabel {
+  font-size: 15px;
+  margin-left: 20px;
+  display: block;
+}
+
+.smalllabel input {
+    transform: scale(1.5);
+    margin: 10px;
+  }

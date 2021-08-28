@@ -1,0 +1,54 @@
+.div1 {
+  width: 30%;
+  height: 100px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+  text-align: center;
+  border: 2px solid gray;
+}
+
+.div2 {
+  width: 20%;
+  height: 100px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+  text-align: center;
+  border: 2px solid gray;
+}
+
+.div1 p {
+  font-size: 40px;
+  font-weight: 500;
+  position: relative;
+  top: -35px;
+}
+
+.div2 p {
+  font-size: 30px;
+  font-weight: 300;
+  position: relative;
+  top: -20px;
+}
+
+.div1 h3,
+.div2 h3 {
+  background-color: white;
+  position: relative;
+  display: inline;
+  background-color: #be8feb;
+  top: -15px;
+  right: 50px;
+}
+
+.gptext,
+.text {
+  text-align: center;
+}
+
+.stetetext {
+  width: 50%;
+  display: inline-block;
+  text-align: center;
+}
